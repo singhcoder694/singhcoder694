@@ -13,7 +13,7 @@
 
 - 📫 LinkedIn **https://www.linkedin.com/in/vivek-singh-0b344124b/**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhcoder694" alt="singhcoder694" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhcoder694" alt="singhcoder694" /></a>  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
